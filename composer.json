@@ -10,6 +10,7 @@
     ],
     "type": "library",
     "license": "MIT",
+    "abandoned": "camanru/fastleo",
     "homepage": "https://fastleo.ru",
     "version": "2.3.4",
     "authors": [
